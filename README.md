@@ -8,7 +8,7 @@ You need to prioritize these hypotheses, launch an A/B test, and analyze the res
 I do not have the permission to share this dataset.
 
 ## Data Description
-**Data used in the first part of the project**
+**Data used in the first part of the project**  
 **Hypotheses dataset**
 * `Hypothesis` — brief descriptions of the hypotheses
 * `Reach` — user reach, on a scale of one to ten
@@ -16,7 +16,7 @@ I do not have the permission to share this dataset.
 * `Confidence` — confidence in the hypothesis, on a scale of one to ten
 * `Effort` — the resources required to test a hypothesis, on a scale of one to ten. The higher the Effort value, the more resource-intensive the test.
 
-**Data used in the second part of the project**
+**Data used in the second part of the project**  
 **Orders dataset**
 * `transactionId` — order identifier
 * `visitorId` — identifier of the user who placed the order
